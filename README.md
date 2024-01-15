@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=busangangster)](https://solved.ac/busangangster)
 ![busangangster's GitHub stats](https://github-readme-stats.vercel.app/api?username=busangangster&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busangangster)](https://github.com/anuraghazra/github-readme-stats)
