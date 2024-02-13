@@ -1,5 +1,7 @@
 ### KIM HA HYUL 😉
 
+- - - 
+
 <!--
 **busangangster/busangangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,19 +15,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h3>💪Skills</h3>
 
+-->
+
 <div>
-  <p> <strong> Platforms & Languages</strong> </p>
+  <p> <strong> Code with</strong> </p>
   <img src="https://img.shields.io/badge/Java-785001?style=flat&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white" />
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+
 </div>
+<br>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusangangster&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
