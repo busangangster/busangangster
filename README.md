@@ -25,11 +25,16 @@ Here are some ideas to get you started:
   <p> <strong> Code with</strong> </p>
   <img src="https://img.shields.io/badge/Java-785001?style=flat&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+
 
 </div>
 <br>
